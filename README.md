@@ -3,25 +3,18 @@
 A Streamlit-based chatbot application that leverages LangGraph, LangChain, and Ollama to build modular, stateful conversational AI agents running on local LLMs.
 
 
-📦 Table of Contents
+📦# Table of Contents
 
-Features
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Screenshots
-
-Installation
-
-Usage
-
-Configuration
-
-Project Structure
-
-Contributing
-
-License
-
-Contact
 
 🚀 Features
 Modular code structure under src/
@@ -50,7 +43,7 @@ Easily extensible for new usecases and nodes
 
 📥Installation
 
-git clone https://github.com/yourusername/langgraph-agentic-chatbot.git
+git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
 cd langgraph-agentic-chatbot
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate

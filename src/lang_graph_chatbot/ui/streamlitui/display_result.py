@@ -4,7 +4,7 @@ class DisplayResult:
     def __init__(self, usecase, user_message, ollama_model_wrapper):
         self.usecase = usecase
         self.user_message = user_message
-        self.ollama_model_wrapper = ollama_model_wrapper  # Use the OllamaModelWrapper object
+        self.ollama_model_wrapper = ollama_model_wrapper  
 
     def display_result_ui(self):
         if "messages" not in st.session_state:
