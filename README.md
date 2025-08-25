@@ -61,14 +61,14 @@ streamlit run app.py
 
 - Start chatting with your AI agent!
 
-###  ⚙️Configuration
+###  Configuration
 
 **Edit src/lang_graph_chatbot/ui/uiconfig.ini to:**
 
 - Change/add models and usecases
 - Update page title and UI texts
 
-###  🗂️Project Structure
+###  📁Project Structure
 
 ```bash
 app.py                       # Main Streamlit entrypoint
@@ -89,7 +89,7 @@ README.md                    # This file
 venv/   
 images                       # Screen Shots 
 ```
-###  ✉️Contact
+###  📨Contact
 
 **Maintainer:** Shashank Gowni
 
