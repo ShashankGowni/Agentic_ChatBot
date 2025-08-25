@@ -3,7 +3,7 @@
 A Streamlit-based chatbot application that leverages LangGraph, LangChain, and Ollama to build modular, stateful conversational AI agents running on local LLMs.
 
 
-📦# Table of Contents
+### 📦 Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -16,7 +16,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 - [Contact](#contact)
 
 
-🚀 Features
+### 🚀 Features
 Modular code structure under src/
 
 UI configuration via uiconfig.ini
@@ -29,7 +29,7 @@ Error handling for robust user experience
 
 Easily extensible for new usecases and nodes
 
-🖥️ Screenshots
+### 🖥️ Screenshots
 
 ### Home Page
 ![Home Page Screenshot](images/HomePage_Screenshot.png)
@@ -41,7 +41,7 @@ Easily extensible for new usecases and nodes
 ![Chatbot Functionality Screenshot](images/ChatbotFunctionality_Screenshot.png)
 
 
-📥Installation
+### 📥Installation
 
 git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
 cd langgraph-agentic-chatbot
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 Ensure Ollama is running locally and required models are downloaded.
 
-💡 Usage
+### 💡 Usage
 
 streamlit run app.py
 
@@ -59,14 +59,14 @@ Choose your preferred LLM and use case from the sidebar.
 
 Start chatting with your AI agent!
 
-⚙️ Configuration
+### ⚙️ Configuration
 
 Edit src/lang_graph_chatbot/ui/uiconfig.ini to:
 
 Change/add models and usecases
 Update page title and UI texts
 
-🗂️ Project Structure
+### 🗂️ Project Structure
 
 app.py                       # Main Streamlit entrypoint
 src/
@@ -86,7 +86,7 @@ README.md                    # This file
 venv/   
 images                       # Screen Shots 
 
-✉️ Contact
+### ✉️ Contact
 Maintainer: Shashank Gowni
-LinkedIn
-shashank.gowni@example.com
+## 📨 Emial                         ## LinkedIn                                 ## 📳 Phone
+shashankgowni09@gmail.com            www.linkedin.com/in/shashankgowni           +91 9949701247
