@@ -68,7 +68,7 @@ streamlit run app.py
 - Change/add models and usecases
 - Update page title and UI texts
 
-### 🗂️Project Structure
+### 📂Project Structure
 
 ```bash
 app.py                       # Main Streamlit entrypoint
