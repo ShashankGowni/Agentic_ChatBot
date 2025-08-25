@@ -89,7 +89,7 @@ README.md                    # This file
 venv/   
 images                       # Screen Shots 
 ```
-### ✉️Contact
+### 📧Contact
 
 **Maintainer:** Shashank Gowni
 
