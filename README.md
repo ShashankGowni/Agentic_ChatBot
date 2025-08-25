@@ -5,13 +5,13 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 
 ### 📦 Table of Contents
 
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
+- [Features](# features)
+- [Screenshots](# screenshots)
+- [Installation](# installation)
+- [Usage](# usage)
+- [Configuration](# configuration)
+- [Project Structure](# projectstructure)
+- [Contact](# contact)
 
 
 ### 🚀 Features
@@ -40,7 +40,8 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 ![Chatbot Functionality Screenshot](images/ChatbotFunctionality_Screenshot.png)
 
 
-### 📥Installation
+### 📥 Installation
+
 ```bash
 - git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
 - cd langgraph-agentic-chatbot
@@ -50,7 +51,8 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 ```
 Ensure Ollama is running locally and required models are downloaded.
 
-### 💡 Usage
+### 💡Usage
+
 ```bash
 streamlit run app.py
 ```
@@ -67,6 +69,7 @@ streamlit run app.py
 - Update page title and UI texts
 
 ### 🗂️ Project Structure
+
 ```bash
 app.py                       # Main Streamlit entrypoint
 src/
@@ -87,6 +90,7 @@ venv/
 images                       # Screen Shots 
 ```
 ### ✉️ Contact
+
 **Maintainer:** Shashank Gowni
 
 📧 **Email:** [shashankgowni09@gmail.com](mailto:shashankgowni09@gmail.com)  
