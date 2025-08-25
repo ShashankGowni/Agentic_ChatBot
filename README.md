@@ -5,14 +5,12 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 
 ### 📦 Table of Contents
 
-- [Features](#features)
-- [Screenshots](#screenshots)
+- [Features](#Features)
+- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 
