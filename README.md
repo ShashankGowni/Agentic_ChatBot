@@ -14,7 +14,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 - [Contact](#contact)
 
 
-### 🚀 Features
+### 🚀Features
  
 - Modular code structure under src/
 
@@ -40,7 +40,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 ![Chatbot Functionality Screenshot](images/ChatbotFunctionality_Screenshot.png)
 
 
-### 📥 Installation
+### 📥Installation
 
 ```bash
 - git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
@@ -51,7 +51,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 ```
 Ensure Ollama is running locally and required models are downloaded.
 
-### 💡 Usage
+### 💡Usage
 
 ```bash
 streamlit run app.py
@@ -61,7 +61,7 @@ streamlit run app.py
 
 - Start chatting with your AI agent!
 
-### ⚙️ Configuration
+### ⚙️Configuration
 
 **Edit src/lang_graph_chatbot/ui/uiconfig.ini to:**
 
@@ -89,7 +89,7 @@ README.md                    # This file
 venv/   
 images                       # Screen Shots 
 ```
-### ✉️ Contact
+### ✉️Contact
 
 **Maintainer:** Shashank Gowni
 
