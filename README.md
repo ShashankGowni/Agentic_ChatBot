@@ -17,17 +17,18 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 
 
 ### 🚀 Features
-Modular code structure under src/
 
-UI configuration via uiconfig.ini
+- Modular code structure under src/
 
-Select from multiple local LLM models (Gemma, Mistral, Qwen)
+- UI configuration via uiconfig.ini
 
-Stateful multi-turn chat with session persistence
+- Select from multiple local LLM models (Gemma, Mistral, Qwen)
 
-Error handling for robust user experience
+- Stateful multi-turn chat with session persistence
 
-Easily extensible for new usecases and nodes
+- Error handling for robust user experience
+
+- Easily extensible for new usecases and nodes
 
 ### 🖥️ Screenshots
 
@@ -43,11 +44,11 @@ Easily extensible for new usecases and nodes
 
 ### 📥Installation
 
-git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
-cd langgraph-agentic-chatbot
-python -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+- git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
+- cd langgraph-agentic-chatbot
+- python -m venv venv
+- source venv/bin/activate    # On Windows: venv\Scripts\activate
+- pip install -r requirements.txt
 
 Ensure Ollama is running locally and required models are downloaded.
 
@@ -88,5 +89,6 @@ images                       # Screen Shots
 
 ### ✉️ Contact
 Maintainer: Shashank Gowni
-## 📨 Emial                         ## LinkedIn                                 ## 📳 Phone
+
+## 📨 Emial                          LinkedIn                                    📳 Phone
 shashankgowni09@gmail.com            www.linkedin.com/in/shashankgowni           +91 9949701247
