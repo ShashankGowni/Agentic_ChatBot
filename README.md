@@ -3,14 +3,13 @@
 A Streamlit-based chatbot application that leverages LangGraph, LangChain, and Ollama to build modular, stateful conversational AI agents running on local LLMs.
 
 
-###  📦 Table of Contents
-
+### 📦 Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Project Structure](#projectstructure)
+- [Project Structure](#project-structure)
 - [Contact](#contact)
 
 
