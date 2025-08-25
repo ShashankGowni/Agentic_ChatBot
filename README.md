@@ -3,18 +3,18 @@
 A Streamlit-based chatbot application that leverages LangGraph, LangChain, and Ollama to build modular, stateful conversational AI agents running on local LLMs.
 
 
-### 📦 Table of Contents
+###  📦 Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Project Structure](#project-structure)
+- [Project Structure](#projectstructure)
 - [Contact](#contact)
 
 
-### 🚀 Features
+###  🚀 Features
  
 - Modular code structure under src/
 
@@ -28,7 +28,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 
 - Easily extensible for new usecases and nodes
 
-### 🖥️ Screenshots
+###  🖥️ Screenshots
 
 ### Home Page
 ![Home Page Screenshot](images/HomePage_Screenshot.png)
@@ -40,7 +40,7 @@ A Streamlit-based chatbot application that leverages LangGraph, LangChain, and O
 ![Chatbot Functionality Screenshot](images/ChatbotFunctionality_Screenshot.png)
 
 
-### 📥 Installation
+###  📥 Installation
 
 ```bash
 - git clone https://github.com/ShashankGowni/langgraph-agentic-chatbot.git
@@ -61,14 +61,14 @@ streamlit run app.py
 
 - Start chatting with your AI agent!
 
-⚙️ Configuration
+###  ⚙️Configuration
 
 **Edit src/lang_graph_chatbot/ui/uiconfig.ini to:**
 
 - Change/add models and usecases
 - Update page title and UI texts
 
-🗂️ Project Structure
+###  🗂️ Project Structure
 
 ```bash
 app.py                       # Main Streamlit entrypoint
@@ -89,7 +89,7 @@ README.md                    # This file
 venv/   
 images                       # Screen Shots 
 ```
-✉️ Contact
+###  ✉️ Contact
 
 **Maintainer:** Shashank Gowni
 
