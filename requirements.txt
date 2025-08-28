@@ -6,3 +6,4 @@ langchain_openai
 faiss-cpu
 streamlit
 tavily-python
+gunicorn 
