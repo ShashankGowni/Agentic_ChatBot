@@ -12,3 +12,4 @@ ollama
 huggingface_hub
 python-dotenv
 requests
+google-generativeai
